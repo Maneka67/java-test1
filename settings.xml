@@ -1,5 +1,6 @@
 <!-- settings.xml -->
 <settings>
+  #test
   <servers>
     <server>
       <!-- Maven Central Deployment -->
